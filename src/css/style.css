@@ -1,0 +1,12 @@
+.root {
+    -fx-font-size: 15px;
+    -fx-background-color: #AFEEEE;
+}
+
+#textArea {
+    -fx-control-inner-background: #FFF5EE;
+}
+
+.bottom {
+    -fx-font-size: 20px;
+}
